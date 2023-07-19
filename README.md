@@ -69,14 +69,14 @@ On the Agents tab of the Admin Panel, select <b>Teams</b>.
 <p>
 On the Agents tab of the Admin Panel, select <b>Agents</b>.
 <br>Click <b>Add New Agent</b>.
-<br>I created an agent named "Jane Doe". Use any values for their credentials, but keep them in mind.
+<br>I created an agent named "Jane Doe". Use any values for their credentials, but keep them in mind.</br>
 <img src="https://github.com/VTeas2000/post-install-config/assets/60052902/693ceea7-045a-4133-8dc3-5d025538e1ec" height="80%" width="80%" alt="Agent Name"/>
-<br>Set the agent's password.
-<img src="https://github.com/VTeas2000/post-install-config/assets/60052902/71a1889d-d9a3-452a-b279-4ea138987441" alt="Agent Password"/>
-<br>Set the agent's department and role.
-<img src="https://github.com/VTeas2000/post-install-config/assets/60052902/2aa0c1dc-862e-4a03-bea1-1785ebbe3df3" alt="Agent Access"/>
-<br>Set the agent's team. Then create the agent.
-<img src="https://github.com/VTeas2000/post-install-config/assets/60052902/dadfba05-fa07-4c5c-b11f-9033769319d7" alt="Agent Team"/>
+<br>Set the agent's password.</br>
+<img src="https://github.com/VTeas2000/post-install-config/assets/60052902/71a1889d-d9a3-452a-b279-4ea138987441" height="80%" width="80%" alt="Agent Password"/>
+<br>Set the agent's department and role.</br>
+<img src="https://github.com/VTeas2000/post-install-config/assets/60052902/2aa0c1dc-862e-4a03-bea1-1785ebbe3df3" height="80%" width="80%" alt="Agent Access"/>
+<br>Set the agent's team. Then create the agent.</br>
+<img src="https://github.com/VTeas2000/post-install-config/assets/60052902/dadfba05-fa07-4c5c-b11f-9033769319d7" height="80%" width="80%" alt="Agent Team"/>
 </p>
 
 <h3>Configure Users (customers)</h3>
