@@ -74,7 +74,7 @@ On the Agents tab of the Admin Panel, select <b>Agents</b>.
 <br>Set the agent's password.
 <img src="https://github.com/VTeas2000/post-install-config/assets/60052902/71a1889d-d9a3-452a-b279-4ea138987441" alt="Agent Password"/>
 <br>Set the agent's department and role.
-<img src="https://github.com/VTeas2000/post-install-config/assets/60052902/57afd8d2-2ee7-445d-8a34-280c724f37fb" alt="Agent Access"/>
+<img src="https://github.com/VTeas2000/post-install-config/assets/60052902/2aa0c1dc-862e-4a03-bea1-1785ebbe3df3" alt="Agent Access"/>
 <br>Set the agent's team. Then create the agent.
 <img src="https://github.com/VTeas2000/post-install-config/assets/60052902/dadfba05-fa07-4c5c-b11f-9033769319d7" alt="Agent Team"/>
 </p>
