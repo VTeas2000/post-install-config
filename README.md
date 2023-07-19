@@ -23,8 +23,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Configure Teams
 - Configure Agents (workers)
 - Configure Users (customers)
-- Configure SLA
 - Configure Help Topics
+- Configure SLA
 
 <h2>Configuration Steps</h2>
 
@@ -77,4 +77,28 @@ On the Agents tab of the Admin Panel, select <b>Agents</b>.
 <img src="https://github.com/VTeas2000/post-install-config/assets/60052902/57afd8d2-2ee7-445d-8a34-280c724f37fb" alt="Agent Access"/>
 <br>Set the agent's team. Then create the agent.
 <img src="https://github.com/VTeas2000/post-install-config/assets/60052902/dadfba05-fa07-4c5c-b11f-9033769319d7" alt="Agent Team"/>
+</p>
+
+<h3>Configure Users (customers)</h3>
+<p>
+On the Users tab of the Agent Panel, click <b>Add User</b>.
+<br>I created a user named "John Doe". Use any values for their credentials, but keep them in mind.
+<img src="https://github.com/VTeas2000/post-install-config/assets/60052902/c6a08560-71e9-488c-8cde-233fb1768ec9" height="80%" width="80%" alt="User Name"/>
+</p>
+
+<h3>Configure Help Topics</h3>
+<p>
+Back to the Admin Panel, go to the Manage tab and click <b>Help Topics</b>.
+<br>Click "Add New Help Topic".
+<br>I created help topics for "Business Critical Outage", "Personal Computer Issues", "Equipment Request", and "Password Reset".
+</p>
+
+<h3>Configure SLA</h3>
+<p>
+Back to the Admin Panel, go to the Manage tab and click <b>SLA</b>.
+<br>Click "Add New SLA Plan".
+<br>I created the following plans:
+<img src="https://github.com/VTeas2000/post-install-config/assets/60052902/89f39292-7ecd-4dfa-bbdc-a5a664635f57" height="80%" width="80%" alt="Sev-A"/>
+<img src="https://github.com/VTeas2000/post-install-config/assets/60052902/61817055-1c6c-4c6f-b20c-6f3762654a39" height="80%" width="80%" alt="Sev-B"/>
+<img src="https://github.com/VTeas2000/post-install-config/assets/60052902/07119f30-9146-4856-8c22-dd75fde6d6e5" height="80%" width="80%" alt="Sev-C"/>
 </p>
