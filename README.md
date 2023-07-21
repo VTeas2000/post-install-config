@@ -37,7 +37,7 @@ Log in at <a href="http://localhost/osTicket/scp/login.php">osTicket :: Agent Lo
 <h3>Allow anyone to create tickets</h3>
 <p>
 On the Settings tab of the Admin Panel, select <b>Users</b>.
-<br>For <b>Registration Required</b> under the Authentication Settings, ensure that "Require registration and login to create tickets" is not selected.
+<br>For <b>Registration Required</b> under the Authentication Settings, ensure that "Require registration and login to create tickets" is not selected.<br>
 <img src="https://github.com/VTeas2000/post-install-config/assets/60052902/adfd0433-fc91-40d9-8de6-04e28d05e2d4" height="80%" width="80%" alt="Ticket Configuration"/>
 </p>
 
